@@ -1,7 +1,7 @@
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
-import 'package:otobee/provider/rest_api.dart';
+import '../provider/rest_api.dart';
 import 'package:provider/provider.dart';
 
 const keyBaseURL = 'baseURL';
